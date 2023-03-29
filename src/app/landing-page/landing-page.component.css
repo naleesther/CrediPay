@@ -1,14 +1,17 @@
- mat-card {
-    width: 1250px;
-    margin-left: 250px;
-    height: 1300px;
-    margin-top: 40px;
+.webpage {
+    /* width: 1480px; */
+    margin-left: 20px;
+    margin-top: 30px;
+    margin: 0 auto;
+    width: fit-content;
+    
+
+    
 }
 
-.cont{
-    /* background-color: red; */
-    width: 1151px;
-    margin-top: -32px;
+.cont {
+    width: 1481px;
+    margin-top: 8px;
     margin-left: -1px;
     border-radius: 1px;
     height: 65px;
@@ -35,7 +38,7 @@
 .cont button{
     background-color: #308fff;
     width: 60px;
-    margin-left: 960px;
+    margin-left: 1250px;
     margin-top: -55px;
     border-style: none;
     color: white;
@@ -44,20 +47,20 @@
     height: 42px;
 
 }
-.img1{ 
+.img1 { 
      height: 20px;
-     margin-left: 680px;
+     margin-left: 980px;
 }
 .ellipse{
     width: 20px;
-    margin-left: 670px;
+    margin-left: 970px;
   
 
 }
 .score{
     width: 350px;
     height: 7vh;
-    margin-left:680px;
+    margin-left:1010px;
     margin-top: -18px;
 }
 .section1{
@@ -81,28 +84,26 @@
 }
 .img2{
     width: 50px;
+
     height: 200px;
 }
 .container2{
     background-color: #eff2f4;
     margin-top: -105px;
+    height: 1200px;
 }
 .container2 img{
-    margin-left: 680px;
+    margin-left: 980px;
     width: 425px;
     height: 300px;
     margin-top: -130px;
     border-radius: 27px;
-    /* margin-left: 610px; */
 }
 .container2 h2{
     color: #308fff;
     margin-left: 30px;
 }
-/* .container2 h3{
-    margin-left: 60px;
-    margin-top: 20px;
-}  */
+
 h3{
     margin-top: 38px;
     margin-left: 70px;
@@ -125,21 +126,20 @@ h3{
     margin-top: -230px;
 }
 .img3 mat-icon{
-    /* margin-bottom: 65%; */
-    margin-left: 580px;
+    margin-left: 970px;
 
 }
 .img3 p{
-    margin-left:580px;
+    margin-left:980px;
 
 }
 .container3 h2{
     color: #318fff;
-    margin-left: 30px;
+    margin-left: 50px;
     margin-top: 180px;
 }
 .uses{
-    margin-left: 20px;
+    margin-left: 50px;
     margin-top: 10px;
     width: 540px;
     height: 190px;
@@ -152,37 +152,40 @@ h3{
 
 }
 .financial{
-    margin-left: 590px;
+    margin-left: 850px;
     width: 580px;
     height: 190px;
     margin-top: -190px;
 }
 .personal{
-    width: 540px;
+    width: 545px;
     height: 190px;
-    margin-left: 25px;
+    margin-left: 50px;
+    margin-top: 30px;
+
 
 }
 .business{
-    width: 590px;
+    width: 595px;
     height: 190px;
-    margin-left: 590px;
+    margin-left: 850px;
     margin-top: -190px;
 }
+
 .footer h2{
     color: #308fff;
-    margin-left: 35px;
+    margin-left: 80px;
     margin-top: 50px;
     font-size: xx-large;
 }
 .footer p{
-    margin-left: 700px;
+    margin-left: 900px;
     margin-top: -69px;
     color: rgb(148, 147, 147);
     font-style: italic;
 }
 .line hr{
-    width: 69%;
+    width: 75%;
     margin-left: 120px;
     color: rgb(153, 153, 153);
 }
@@ -210,3 +213,6 @@ h3{
     margin-left: 40%;
     margin-top: -60px;
 }
+  
+
+     
